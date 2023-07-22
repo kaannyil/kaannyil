@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Kaan Yıldırım</h1>
 <h3>A passionate IOS Developer from Turkey</h3>
 
-
-
 - 🔭 I’m currently working on **IOS Development**
 - 🌱 I’m currently learning **Mobile Development**
 - 💬 Ask me about **anything what you wonder.**
